@@ -1,2 +1,7 @@
 name: Stephen Ciauri, Xcoder
 markdown: kramdown
+pagination:
+ enabled: true
+ sort_reverse: true
+ per_page: 5
+plugins: [jekyll-paginate-v2]
